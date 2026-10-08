@@ -1,0 +1,37 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="24dp"
+    android:height="24dp"
+    android:viewportWidth="24"
+    android:viewportHeight="24">
+    <!-- Axes with subtle curve at origin -->
+    <path
+        android:pathData="M3,3v15a2,2 0 0,0 2,2h16"
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="1.8"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"/>
+    <!-- Growth Line trending up-right -->
+    <path
+        android:pathData="M6,14l4.5,-5.5l4,4.5l6.5,-8"
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="1.8"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"/>
+    <!-- Arrow Head at top right -->
+    <path
+        android:pathData="M17,5h4v4"
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="1.8"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"/>
+    <!-- Data points / nodes -->
+    <path
+        android:pathData="M6,14m-1.2,0a1.2,1.2 0 1,0 2.4,0a1.2,1.2 0 1,0 -2.4,0"
+        android:fillColor="#FFFFFF"/>
+    <path
+        android:pathData="M10.5,8.5m-1.2,0a1.2,1.2 0 1,0 2.4,0a1.2,1.2 0 1,0 -2.4,0"
+        android:fillColor="#FFFFFF"/>
+    <path
+        android:pathData="M14.5,13m-1.2,0a1.2,1.2 0 1,0 2.4,0a1.2,1.2 0 1,0 -2.4,0"
+        android:fillColor="#FFFFFF"/>
+</vector>

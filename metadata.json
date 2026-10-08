@@ -1,0 +1,6 @@
+{
+  "name": "TAsin ZiEL Bo0k",
+  "description": "Modern personal productivity and goal planner with future goals, daily tasks, personal journal notes, and an interactive calendar with reminders.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
